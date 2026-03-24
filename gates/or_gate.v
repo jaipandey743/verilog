@@ -1,4 +1,4 @@
-module or_gate(input a, input b, input y);
+module or_gate(input a, input b, output y);
     assign y= a|b;
     // |declares the or gate
 endmodule
