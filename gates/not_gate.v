@@ -1,3 +1,3 @@
 module not_gate(input a,output b);
-assign b=~a;
+    assign b=~a;
 endmodule
